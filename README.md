@@ -1,4 +1,4 @@
-<!Doctype html>
+
 <html>
     <title> Natiijo</title>
     <head>
@@ -23,9 +23,7 @@
                         <td> Caafimaad</td>
                     </td>
                 </tr>
-                <tr>
-                    
-                </tr>
+              
                 <tr>
                     <th>2. </th>
                     <td> Abdirisak Adam Mohamud </td>
@@ -44,7 +42,7 @@
                     <td> Caafimaad
                     </td>
                 </tr>
-                <tr>
+                
                     <tr>
                         <th>4. </th>
                         <td> Aisha Ibrahim </td>
@@ -53,9 +51,7 @@
                         <td> Caafimaad
                         </td>
                     </tr>
-                    <tr>
-                        
-                    </tr>
+                  
                     <tr>
                         <th>5. </th>
                         <td> Anas Hassan Abdi</td>
@@ -64,7 +60,7 @@
                         <td> Caafimaad
                         </td>
                     </tr>
-                    <tr>
+                   
                         <tr>
                             <th>6. </th>
                             <td> Sadak Abdullahi Ahmed</td>
@@ -82,8 +78,5 @@
                             <td> Caafimaad
                             </td>
                         </tr>
-                        <tr>
-                            
-                        </tr>
-                    </tr>
+                     
                     
